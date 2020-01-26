@@ -4,10 +4,10 @@
 Simple iOS app that allows user to change the text, text color, background color, and reset to the default view.
 
 ### App Walk-though
-<img src="https://i.imgur.com/ebzX7Gq.mp4" width=200><br>
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="ebzX7Gq"><a href="//imgur.com/ebzX7Gq">Codepath App Gif</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" width=200><br>
 
 ### Required User Stories
-- [x] 1. User sees custom text in a label - Hello from {name}!
+- [x] 1. User sees custom text in a label - Hello World!
 - [x] 2. User see's custom background color.
 - [x] 3. User can tap a button to change the text color of the label.
 
