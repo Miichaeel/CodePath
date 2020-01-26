@@ -4,7 +4,7 @@
 Simple iOS app that allows user to change the text, text color, background color, and reset to the default view.
 
 ### App Walk-though
-<img src="https://imgur.com/gallery/9axb8gD" width=200><br>
+<img src="https://i.imgur.com/k9wiLGV.mp4" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
